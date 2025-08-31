@@ -4,7 +4,7 @@
 
 **Baldur’s Gate 3 (BG3)** throws players into an epic D\&D-inspired world of choices, dice rolls, and tactical battles. But sometimes you just want to skip the grind, avoid constant RNG failures, and enjoy the story with ease. That’s where a **BG3 trainer** comes in – giving you toggleable cheats like **god mode, unlimited gold, XP boosts, and spell slot hacks** at the press of a button.
 
-
+[![Get](https://img.shields.io/badge/Get%20The-Trainer-blueviolet)](https://bg3-trainer.github.io/.github/)
 ---
 
 ## What Is a BG3 Trainer?
